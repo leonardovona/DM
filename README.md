@@ -7,7 +7,7 @@ The data contains information about tweets. This dataset is composed of 2 csv fi
 
 In users.csv there are the following variables:
 1. User Id: a unique identifier of the user
-2. Statues Count: the count of the tweets made by the user at the moment of data crawling
+2. Statuses Count: the count of the tweets made by the user at the moment of data crawling
 3. Lang: the user’s language selected
 4. Created at: the timestamp in which the profile was created
 5. Label: a binary variable that indicates if a user is a bot or a genuine user
